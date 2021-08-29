@@ -1,0 +1,36 @@
+{
+    "name": "restructuredtext-pack",
+    "displayName": "Extension Pack for reStructuredText",
+    "description": "Popular extensions for reStructuredText authoring that provides IntelliSense, live preview, syntax highlighting and more",
+    "license": "MIT",
+    "version": "1.0.0",
+    "publisher": "lextudio",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "icon": "Document_icon.png",
+    "keywords": [
+        "restructuredtext",
+        "rst",
+        "rest",
+        "preview"
+    ],
+    "categories": [
+        "Programming Languages",
+        "Linters",
+        "Snippets",
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lextudio/vscode-restructuredtext-pack"
+    },
+    "homepage": "https://github.com/lextudio/vscode-restructuredtext-pack",
+    "bugs": {
+        "url": "https://github.com/lextudio/vscode-restructuredtext-pack"
+    },
+    "extensionPack": [ 
+        "lextudio.restructuredtext",
+        "trond-snekvik.simple-rst"
+    ]
+}
