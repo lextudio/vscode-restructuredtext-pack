@@ -1,3 +1,5 @@
+![Current Version](https://img.shields.io/visual-studio-marketplace/v/lextudio.restructuredtext-pack.svg?style=flat-square) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/lextudio.restructuredtext-pack.svg?style=flat-square) ![Install Count](https://img.shields.io/visual-studio-marketplace/i/lextudio.restructuredtext-pack.svg?style=flat-square)
+
 # Extension Pack for reStructuredText
 
 Extension Pack for reStructuredText is a collection of popular extensions that can help write, preview reStructuredText files in Visual Studio Code.
@@ -6,9 +8,9 @@ Extension Pack for reStructuredText is a collection of popular extensions that c
 
 By installing Extension Pack for reStructuredText, the following extensions are installed:
 
-- [📦 reStructuredText Syntax highlighting](https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst) ![Current Version](https://img.shields.io/visual-studio-marketplace/v/trond-snekvik.simple-rst.svg) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/trond-snekvik.simple-rst.svg) ![Install Count](https://img.shields.io/visual-studio-marketplace/i/trond-snekvik.simple-rst.svg)
+- [📦 reStructuredText Syntax highlighting](https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst) ![Current Version](https://img.shields.io/visual-studio-marketplace/v/trond-snekvik.simple-rst.svg?style=flat-square) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/trond-snekvik.simple-rst.svg?style=flat-square) [![Install Count](https://img.shields.io/visual-studio-marketplace/i/trond-snekvik.simple-rst.svg?style=flat-square)](https://github.com/trond-snekvik/vscode-rst)
     - Syntax highlighting
-- [📦 reStructuredText Language Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) ![Current Version](https://img.shields.io/visual-studio-marketplace/v/lextudio.restructuredtext.svg) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/lextudio.restructuredtext.svg) ![Install Count](https://img.shields.io/visual-studio-marketplace/i/lextudio.restructuredtext.svg) 
+- [📦 reStructuredText Language Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) ![Current Version](https://img.shields.io/visual-studio-marketplace/v/lextudio.restructuredtext.svg?style=flat-square) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/lextudio.restructuredtext.svg?style=flat-square) [![Install Count](https://img.shields.io/visual-studio-marketplace/i/lextudio.restructuredtext.svg?style=flat-square)](https://github.com/vscode-restructuredtext/vscode-restructuredtext)
     - Code Snippets
     - Live Preview
     - Section Builder
