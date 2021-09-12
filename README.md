@@ -11,16 +11,18 @@ By installing Extension Pack for reStructuredText, the following extensions are 
 - [📦 reStructuredText Syntax highlighting](https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst) ![Current Version](https://img.shields.io/visual-studio-marketplace/v/trond-snekvik.simple-rst.svg?style=flat-square) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/trond-snekvik.simple-rst.svg?style=flat-square) [![Install Count](https://img.shields.io/visual-studio-marketplace/i/trond-snekvik.simple-rst.svg?style=flat-square)](https://github.com/trond-snekvik/vscode-rst)
     - Syntax highlighting
 - [📦 reStructuredText Language Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext) ![Current Version](https://img.shields.io/visual-studio-marketplace/v/lextudio.restructuredtext.svg?style=flat-square) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/lextudio.restructuredtext.svg?style=flat-square) [![Install Count](https://img.shields.io/visual-studio-marketplace/i/lextudio.restructuredtext.svg?style=flat-square)](https://github.com/vscode-restructuredtext/vscode-restructuredtext)
-    - Code Snippets
-    - Live Preview
-    - Section Builder
-    - Table Editor
+    - Code snippets
+    - Live preview
+    - Section builder
+    - Table editor
     - Linter
     - IntelliSense
+- [📦 Python for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    - Python environment configuration
 
 ## Questions & Issues
 
-Each extension mentioned above is a separate open-source project and has its own repository. To make things easier, simply [🙋 open an issue in this repository](https://github.com/lextudio/vscode-restructuredtext-pack/issues). The new issue will be triaged and redirected.
+Each extension mentioned above is a separate open-source project and has its own repository. Please report issues to individual repositories.
 
 ## License
 
