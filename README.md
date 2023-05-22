@@ -19,6 +19,8 @@ By installing Extension Pack for reStructuredText, the following extensions are 
     - IntelliSense
 - [📦 Python for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - Python environment configuration
+- [📦 IIS and IIS Express for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=lextudio.iis) ![Current Version](https://img.shields.io/visual-studio-marketplace/v/lextudio.iis.svg?style=flat-square) ![Download Count](https://img.shields.io/visual-studio-marketplace/d/lextudio.iis.svg?style=flat-square) [![Install Count](https://img.shields.io/visual-studio-marketplace/i/lextudio.iis.svg?style=flat-square)](https://github.com/jexuswebserver/vscode-iis)
+    - [Sphinx sites hosting on IIS/IIS Express](https://halfblood.pro/vscode-iis-extension-for-sphinx-users/)
 
 ## Questions & Issues
 

@@ -3,7 +3,7 @@
     "displayName": "Extension Pack for reStructuredText",
     "description": "Popular extensions for reStructuredText authoring that provides IntelliSense, live preview, syntax highlighting and more",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "lextudio",
     "engines": {
         "vscode": "^1.43.0"
